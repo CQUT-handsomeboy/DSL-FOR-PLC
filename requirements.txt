@@ -1,0 +1,3 @@
+textx
+fire
+mermaid-py
